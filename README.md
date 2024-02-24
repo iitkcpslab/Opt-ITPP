@@ -1,4 +1,4 @@
-Optimal Integrated Task and Path Planner
+Opt-ITPP : Optimal Integrated Task and Path Planner
 
     This repository contains the source code of Opt-ITPP and some 
     utilities to generate problems and benchmark the algorithm.
